@@ -1,0 +1,22 @@
+Character Generation Prompts
+
+1. margaret_woman
+
+margaret_woman — a woman of sixty-three, retired, self-contained and precise in the way that people who have spent their lives with language become precise. Silver-gray hair cut simply, reading glasses she takes on and off without thinking about it, plain comfortable clothes in muted colors. Her face carries the particular look of someone who has thought carefully about most things and is still thinking. Not sad exactly — reflective. The kind of person whose silences are full rather than empty. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, quietly reflective face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+2. daniel_man
+
+daniel_man — a woman of indeterminate age, grounded and quiet, plain comfortable clothes in muted tones, an observant and unhurried posture. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, composed watchful face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+3. james_man
+
+james_man — a woman of indeterminate age, grounded and quiet, plain comfortable clothes in muted tones, an observant and unhurried posture. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, composed watchful face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+4. priya_woman
+
+priya_woman — a woman of indeterminate age, grounded and quiet, plain comfortable clothes in muted tones, an observant and unhurried posture. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, composed watchful face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+5. elspeth_woman
+
+elspeth_woman — a woman of 1998, grounded and quiet, plain comfortable clothes in muted tones, an observant and unhurried posture. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, composed watchful face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+

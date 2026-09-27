@@ -1,0 +1,18 @@
+Character Generation Prompts
+
+1. otto_man
+
+otto_man — a man of seventy-one, solidly built, unhurried, the kind of person who has made his peace with most things and is no longer interested in pretending otherwise. White hair, a weathered face with deep lines that suggest more outdoor life than indoor, work-worn hands, plain clothes — thick trousers, a flannel shirt, an old wool jumper. His expression is composed and patient but not passive. There is something behind his eyes that is paying close attention even when he appears to be doing nothing. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, quietly alert face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+2. nina_daughter
+
+nina_daughter — a woman in her mid-forties, capable and warm but currently carrying more worry than she knows what to do with. Dark hair, neat practical clothes, the face of someone who solves problems for a living and has recently encountered one she cannot solve in the usual way. Her expression tends toward concern — not coldness, but the specific tension of love expressed as management. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, quietly worried face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+3. marta_girl
+
+marta_girl — a girl of nine, small and observant, the kind of child who accepts things that adults say with complete seriousness because she has not yet learned to perform skepticism. Short dark hair, plain clothes, a way of crouching to look at small things that suggests she does this often. Her face is open and curious without being loud about it. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, openly curious face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+4. paul_neighbor
+
+paul_neighbor — a man of fifty-three, practical and direct, not unkind but unused to saying things he cannot justify with visible evidence. Average build, plain work clothes, a face that is honest rather than expressive. He means well and shows it clumsily. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, plain straightforward face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+

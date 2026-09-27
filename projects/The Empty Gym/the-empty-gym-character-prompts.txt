@@ -1,0 +1,18 @@
+Character Generation Prompts
+
+1. elias_man
+
+elias_man — a man of thirty-two, thoughtful and unhurried, wearing modest everyday clothes, dark hair neatly combed, an expression of quiet contemplation and steady realization. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, quietly contemplative face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+2. nora_baker
+
+nora_baker — a woman in her late thirties, solitary baker, working quietly before dawn. Dust of flour on her apron, sleeves pushed up, hair pinned back, an expression of steady competence and private stillness. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, calm composed face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+3. clara_woman
+
+clara_woman — a woman of forty-four, lean and self-contained, the kind of person who has learned to take up less space than she needs. Dark hair pulled back simply, plain athletic clothes, no jewelry. Her face is composed but not closed — there is something watchful in her eyes, the look of someone who has recently recalibrated what she expects from a day. She does not perform anything. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, quietly expressive face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+4. ruth_woman
+
+ruth_woman — a woman of about forty-five, slightly warmer in appearance than clara_woman, with the look of someone who arrived somewhere new and is not yet sure if she belongs there. Light brown hair, plain gym clothes that are newer than they look comfortable, an expression that is trying not to be uncertain and not quite succeeding. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, quietly uncertain expression softening over time, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+

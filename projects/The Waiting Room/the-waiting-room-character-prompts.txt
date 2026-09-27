@@ -1,0 +1,10 @@
+Character Generation Prompts
+
+1. elias_man
+
+elias_man — a man of thirty-two, thoughtful and unhurried, wearing modest everyday clothes, dark hair neatly combed, an expression of quiet contemplation and steady realization. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, quietly contemplative face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+2. mrs_voss_elder
+
+mrs_voss_elder — a woman in her early seventies, serene and observant, silver hair gathered back, comfortable knitted shawl, hands that have tended gardens for decades, a gentle knowing warmth in her eyes. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, serene gentle face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+

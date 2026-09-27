@@ -1,0 +1,14 @@
+Character Generation Prompts
+
+1. frank_man
+
+frank_man — a man of sixty-eight, weathered and observant, forty-two years behind the locksmith counter. Thin silver-gray hair, quiet steady hands accustomed to small delicate tools, plain work shirt with sleeves rolled up, dark woolen trousers. His expression is patient, composed, and carrying the quiet weight of long memory. There is a deep, quiet gentleness behind his gaze. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, quietly reflective face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+2. elena_woman
+
+elena_woman — a woman in her late fifties, warm and spirited, remembered with vivid clarity. Soft dark hair with touches of gray, a gentle slant to her smile, an energetic and practical demeanor. Wearing a soft cardigan in dusty amber tones. Her expression is bright, direct, and affectionate. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, warm affectionate face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
+3. cass_daughter
+
+cass_daughter — a woman in her mid-thirties, practical and perceptive, carrying a direct honesty and deep care for her father. Dark hair pulled back loosely, comfortable everyday clothes in muted sage and blue. Her expression is caring, thoughtful, with a subtle questioning warmth in her eyes. Hand-drawn watercolor and ink wash character portrait in the style of The Tale of Princess Kaguya, loose gestural pencil and ink lines that do not fully close, soft desaturated watercolor washes, pale warm creams and dusty grays, simple grounded figure, thoughtful caring face, plain studio background dissolving to white paper at the edges, no hard outlines, visible paper texture, NOT photorealistic, NOT clean anime, NOT 3D render.
+
